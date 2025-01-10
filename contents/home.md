@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![guxiaozhi](https://img.shields.io/badge/guxiaozhi-github-blue?logo=github)](https://github.com/breathe10086)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently pursuing a Master's Degree in Cyber Engineering, at School of Cyber Engineering, Xidian University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+guxiaozhi0301[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., School of Cyber Engineering, Xidian University, 2024—2027 (expected).\
+B.E., School of Cyber Engineering, Xidian University, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+FPGA, Embedded, Mine Microseismic.
 
