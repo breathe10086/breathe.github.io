@@ -12,5 +12,5 @@ M.E., School of Cyber Engineering, Xidian University, 2024—2027 (expected).\
 B.E., School of Cyber Engineering, Xidian University, 2020—2024.
 
 #### Research Interests
-FPGA, Embedded, Mine Microseismic.
+FPGA, Embedded, Information Security.
 
